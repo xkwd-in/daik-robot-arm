@@ -1,0 +1,26 @@
+# 构建产物
+ros_ws/build/
+ros_ws/install/
+ros_ws/log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Binaries
+*.exe
+
+# ROS
+ros_ws/src/**/__pycache__/
